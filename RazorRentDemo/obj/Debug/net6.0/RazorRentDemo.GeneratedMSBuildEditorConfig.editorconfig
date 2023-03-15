@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorRentDemo
+build_property.RootNamespace = RazorRentDemo
+build_property.ProjectDir = C:\Users\ÖĞLE\Desktop\VS2022\RAZOR\RazorRent\RazorRentDemo\RazorRentDemo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ÖĞLE\Desktop\VS2022\RAZOR\RazorRent\RazorRentDemo\RazorRentDemo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Garage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FyYWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Garage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FyYWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Garage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FyYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Garage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FyYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Garage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FyYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Rent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Rent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Rent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Rent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Rent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ÖĞLE/Desktop/VS2022/RAZOR/RazorRent/RazorRentDemo/RazorRentDemo/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1zaopflnat
